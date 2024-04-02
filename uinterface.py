@@ -69,3 +69,5 @@ for (text, row, col) in buttons:
     button.grid(row=row, column=col, padx=5, pady=5)
 
 root.mainloop()
+
+math.sqrt(25)
